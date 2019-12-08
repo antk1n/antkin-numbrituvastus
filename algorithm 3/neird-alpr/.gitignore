@@ -1,0 +1,7 @@
+imgs
+test*
+neg_*
+pos_*
+*.pyc
+env
+tmp
