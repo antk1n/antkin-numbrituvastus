@@ -1,7 +1,8 @@
 # Numbrituvastus
 
-Nomeroff-net on seisuga 24.09.19, kõik teised algoritmid mis asuvad repo's on seisuga 14.10.19.
-Pildipank ja teised failid asuvad G-drivis.
+Nomeroff-net on seisuga 24.09.19.  
+Kõik teised algoritmid mis asuvad repo's on seisuga 14.10.19.  
+Pildipank ja teised failid asuvad G-drivis.  
 
 ## 1. Algoritmid
 
