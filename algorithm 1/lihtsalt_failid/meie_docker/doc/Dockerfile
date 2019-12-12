@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest-py3
+FROM ubuntu:18.04
 
 ENV DEBIAN_FRONTEND=noninteractive
 
@@ -9,10 +9,11 @@ RUN apt-get update
 
 RUN apt-get install -y python3.6
 RUN apt-get install -y python3.6-dev
+RUN apt-get install -y python3-pip
 
 RUN apt-get install -y git
 
-RUN apt-get install gcc
+RUN apt-get install -y gcc
 RUN apt-get install -y libglib2.0
 RUN apt-get install -y libsm6
 RUN apt-get install -y libfontconfig1 libxrender1
