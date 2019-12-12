@@ -4,8 +4,8 @@ Nomeroff-net on seisuga 24.09.19, asub kasustas "nomeroff-net".
 Python'i skriptid ja .txt failid asuvad kaustas "lihtsalt_failid".    
 Kõik pildid peavad olema .jpg
 Kaustas "nomeroff-net" asub nomeroff ja kõik vajalikud failid:
-- .txt failid ja skriptid (kahes kohas siin "muudetud_nomeroff/nomeroff-net" ja siin "muudetud_nomeroff/nomeroff-net/examples/py")  
-- dockerfile ja .sh skriptid mis teevad elu lihtsamaks. (dockerfile asub siin "nomeroff-net/docker/doc", .sh failid siin "/nomeroff-net/meie_docker/")  
+- .txt failid ja skriptid (kahes kohas siin "nomeroff-net" ja siin "nomeroff-net/examples/py")  
+- dockerfile ja .sh skriptid mis teevad elu lihtsamaks. (dockerfile asub siin "nomeroff-net/meie_docker/doc", .sh failid siin "/nomeroff-net/meie_docker/")  
 
 ## Docker
 Docker image suurus umbes 3 GB.
