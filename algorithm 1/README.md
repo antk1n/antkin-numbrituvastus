@@ -8,7 +8,7 @@ Kaustas "nomeroff-net" asub nomeroff ja kõik vajalikud failid:
 - dockerfile ja .sh skriptid mis teevad elu lihtsamaks. (dockerfile asub siin "nomeroff-net/meie_docker/doc", .sh failid siin "/nomeroff-net/meie_docker/")  
 
 ## Docker
-Docker image suurus umbes 3 GB.
+Docker image suurus umbes 1.5 GB.
 
 ### Kuidas Docker installida
 - sudo apt-get update
