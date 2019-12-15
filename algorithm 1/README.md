@@ -28,7 +28,9 @@ NB! Docker näeb kausta nomeroff-net/ realajas
 - Käivitame nomeroff-net käsuga 'python3 minudemo.py', skript teeb väljundi "output.txt" faili.  
 (Kui on vaja, siis on võimalus käivitada kohe võrdlemis skriptid nom.py või nom_1.py. Et saada rohkem infot vt "võrdlemisjuhend")
 - stop Docker käsuga 'exit', või on võimalus teises terminalis käivitada stop.sh file käsuga "sudo sh stop.sh", mis asub docker/ kaustas
-
+    
+##### minudemo.py käivitamisel võib tekkitada viga "std::bad_alloc", sellel juhul võib aidata virtuaalmasina (või arvuti) taaskäivitamine või piltide suuruse muutmine. Info selle kohta [siin](https://www.tutorialfor.com/questions-99368.htm) ja [siin](https://github.com/tensorflow/tensorflow/issues/9487)   
+  
 ## Paigaldamis juhend  (Installation from source), Linux (ubuntu)  
 
 ### Paigaldada VitualBox'i ubuntu 18.04
